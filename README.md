@@ -1,3 +1,11 @@
+#Christien Wright's NBA Q&A Demo
+
+First, special thank you to OPENAI for providing access to the OpenAI beta AI platform and the GPT3-Sandbox. My first demo was creating an NBA Q&A app, which will allow you to ask questions and will provide you with a response. The project lives in the examples folder. This was an idea that came naturally due to my passion for basketball. Learn more about what you can do with the OpenAI GPT-3 API. Stay tuned for further demos!
+
+
+
+#Original GPT3-Sandbox Info
+
 # GPT-3 Sandbox: Turn your ideas into demos in a matter of minutes
 
 Initial release date: 19 July 2020
